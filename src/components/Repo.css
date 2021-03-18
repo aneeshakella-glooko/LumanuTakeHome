@@ -1,0 +1,13 @@
+.clicked_repo{
+    background-color: green;
+    padding-top: 30px;
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+
+.repo{
+    background-color: cyan;
+    padding-top: 30px;
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
